@@ -33,6 +33,7 @@ const resolvers = {
     game: (review) => db.games.find(game => game.id === review.game_id),
     author: (review) => db.authors.find(author => author.id === review.author_id)
   }
+  
 };
 
 const server = new ApolloServer({ 
