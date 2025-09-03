@@ -18,5 +18,13 @@
   "devDependencies": {
     "@types/node": "^24.3.0",
     "typescript": "^5.9.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pal-bhaskar/graphql-server-exmp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pal-bhaskar/graphql-server-exmp/issues"
+  },
+  "homepage": "https://github.com/pal-bhaskar/graphql-server-exmp#readme"
 }
